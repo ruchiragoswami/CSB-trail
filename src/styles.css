@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  width: 75%;
+  height: 8vh;
+  font-size: 1.1rem;
+  /* border: 2px solid black; */
+}
+
+input:focus {
+  background-color: palegreen;
+}
+
+p {
+  font-size: 2rem;
+  font-weight: 600;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: purple;
+}
+
+span {
+  padding: 1rem;
+  font-size: 3rem;
+  cursor: pointer;
+}
